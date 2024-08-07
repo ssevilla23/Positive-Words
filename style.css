@@ -1,0 +1,32 @@
+html{
+  background-color: #ffb5b5;
+}
+
+body{
+  height: 100%;
+  background-image: linear-gradient(#ffb5b5, #ffe7e7);
+}
+
+.row {
+  margin: 4vh 0;
+}
+
+input{
+  height: 40px;
+  text-align: center;
+}
+
+textarea{
+  width: 80%;
+  height: 120px;
+}
+
+textarea::placeholder{
+  text-align: center;
+  line-height: 60px;
+}
+
+#hear-it{
+  margin: 20px 0;
+  text-align: center;
+}
